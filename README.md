@@ -1,2 +1,2 @@
 # PirateHaxx-Guide
-A guide for free CFW on 3DS 11.7.0-40
+A guide for CFW via DSi on 3DS 11.7.0-40
